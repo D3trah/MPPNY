@@ -48,6 +48,6 @@ pytest
 Online elérhetőségek
 GitHub Repository: https://github.com/D3trah/MPPNY
 
-Backend (Render): [IDE A BARÁTOD RENDER LINKJE]
+Backend (Render): https://dashboard.render.com/web/srv-d52pr96r433s738me3qg/deploys/dep-d52pr9er433s738me43g
 
-Frontend (Streamlit Cloud): [IDE A BARÁTOD STREAMLIT LINKJE]
+Frontend (Streamlit Cloud): https://kwr2rssqhsrsmxwuwm4zug.streamlit.app
