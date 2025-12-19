@@ -4,7 +4,7 @@ import pandas as pd
 
 st.title("💪 Edzésnapló")
 
-BACKEND_URL = "https://mppny.onrender.com"
+BACKEND_URL = "http://127.0.0.1:8000/workouts"
 
 with st.sidebar:
     st.header("Új gyakorlat")
